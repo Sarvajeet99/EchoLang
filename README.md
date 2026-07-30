@@ -28,9 +28,9 @@ Speak in your native language, translate it into another language, and hear the 
                  └──────┬────────┘
                         │
                         ▼
-             ┌────────────────────┐
+             ┌────────────────────────┐
              │ Whisper Speech-to-Text │
-             └──────────┬─────────┘
+             └──────────┬─────────────┘
                         │
                         ▼
               ┌───────────────────┐
