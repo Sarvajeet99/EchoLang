@@ -1,0 +1,48 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# ======================
+# AI Models
+# ======================
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Generated audio
+generated_audio/
+outputs/
+temp/
+
+# ======================
+# Node / React
+# ======================
+frontend/node_modules/
+frontend/dist/
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+backend/app/voices/*.wav
+samples/*.wav
+ai-services/test.py
+backend/test_transcribe.py
