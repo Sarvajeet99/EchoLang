@@ -131,9 +131,8 @@ npm run dev
 
 # 📸 Screenshots
 
-<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/8d0718fb-4a56-486b-a6d1-4dc685f933a0" />
-<img width="1908" height="946" alt="image" src="https://github.com/user-attachments/assets/3327df7e-ada7-46b5-923a-74a9cdc6fc65" />
-<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/c09d012a-6f79-4980-a85d-0ba37ba871eb" />
+<img width="1908" height="946" alt="image" src="https://github.com/user-attachments/assets/2d689b1c-ab69-4157-896d-0aa7f5c8bd53" />
+<img width="1910" height="956" alt="image" src="https://github.com/user-attachments/assets/e8a81264-5df4-4e14-9cac-5ac2c0cc8f3c" />
 
 
 
@@ -141,13 +140,13 @@ npm run dev
 ### Landing Page
 
 <p align="center">
-<img src="screenshots/landing.png" width="900">
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/8d0718fb-4a56-486b-a6d1-4dc685f933a0" />
 </p>
 
 ### Translator
 
 <p align="center">
-<img src="screenshots/translator.png" width="900">
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/c09d012a-6f79-4980-a85d-0ba37ba871eb" />
 </p>
 
 ---
